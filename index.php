@@ -19,6 +19,7 @@
     </div>
     <div class="ajax-result"></div>
 </div>
+<div class="a"></div>
 <script>
     $(document).ready(function(){
         $('.menu').css({
@@ -32,6 +33,7 @@
             $('.ajax-result').text(result.test1);
         },'JSON');
     }
+
 </script>
 </body>
 </html>
