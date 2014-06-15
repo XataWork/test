@@ -15,6 +15,7 @@
 <body>
 <div class="container">
     <div class="menu">
+        <div class="test"></div>
         <button onclick="ajaxContent()">Нажми меня!</button>
     </div>
     <div class="ajax-result"></div>
