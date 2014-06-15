@@ -17,6 +17,7 @@
     <div class="menu">
         <div class="test"></div>
         <button onclick="ajaxContent()">Нажми меня!</button>
+        <div class="vasya"></div>
     </div>
     <div class="ajax-result"></div>
 </div>
